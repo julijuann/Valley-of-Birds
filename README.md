@@ -8,7 +8,7 @@ Real-time valley updates with grid-based display
 Object-oriented design with class-based structure
 
 ## Details
-Developed in Xcode for a UCLA course from March to May 2024, this project emphasizes object-oriented programming principles and dynamic game mechanics in a console-based simulation. 
+Developed in Xcode for a UCLA course from April to May 2024, this project emphasizes object-oriented programming principles and dynamic game mechanics in a console-based simulation. 
 
 
 
